@@ -11,4 +11,5 @@ Project 3: Linked List Lookup, Did It Throw?, Count Unique Values, Recursive GCD
 Project 4: Counting Holey Domino Tilings(Domino Tiling)<br>
 Project 5: Frightfully Smart Templated Array Class<br>
 Project 6: Reversing a Linked List, Associative Dataset Class Template(Bad)<br>
-Project 7:<br>
+Project 7: Tree sort with Binary Search Tree<br>
+Project 8: Counting words in given txt, doctest demo work<br>
